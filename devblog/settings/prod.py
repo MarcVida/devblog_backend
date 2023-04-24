@@ -12,3 +12,5 @@ DATABASES = {
         'PASSWORD': 'pass12345',
     }
 }
+
+STATIC_ROOT = '/home/marcvida/devblog_backend/devblog/static'
