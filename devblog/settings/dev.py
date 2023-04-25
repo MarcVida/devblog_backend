@@ -12,3 +12,5 @@ DATABASES = {
         'PASSWORD': '1234',
     }
 }
+
+CORS_ALLOW_ALL_ORIGINS = True

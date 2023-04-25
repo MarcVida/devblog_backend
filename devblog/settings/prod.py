@@ -14,3 +14,5 @@ DATABASES = {
 }
 
 STATIC_ROOT = '/home/marcvida/devblog_backend/devblog/static'
+
+CORS_ALLOWED_ORIGINS = ['https://marcvida.github.io']
