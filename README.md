@@ -1,5 +1,5 @@
 # DevBlog Backend
-A simple Django project that implements the backend for DevBlog. DevBlog is a web app that allows users to read and create posts about software development and any other fun topics.
+A simple Django project that implements the backend for DevBlog. DevBlog is a web app that allows users to read and create posts about software development and any other fun topics. Note that this app doesn't have any security method, so please do not post private/personal information on it.
 
 ## Deployment Notes
 * Python virtual environment:
